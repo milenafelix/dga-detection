@@ -1,6 +1,3 @@
-# dga-detection
-Código fonte do pré-projeto de TCC sobre detecção de DGA com Deep Learning.
-
 # Detecção de Tráfego C2 via DGA com Deep Learning 🛡️🧠
 
 Este repositório contém o código-fonte e os datasets utilizados no pré-projeto de TCC intitulado: **"Detecção de Tráfego de Command & Control (C2) via Classificação de Domínios Gerados por Algoritmos (DGA) utilizando Deep Learning"**.
